@@ -23,7 +23,6 @@
 #Especiessembradas
 #Nombre
 #FEcha
-#Correo
 
 
 
@@ -32,7 +31,6 @@
 #comuna
 #Toneladas Recogidas
 #Tipos de Residuos
-#Correo de Contacto
 #Nombre
 #Fecha
 
@@ -43,6 +41,5 @@
 #comuna
 #pH
 #Nivel de Oxígeno Disuelto (mg/L)
-#Concentración de Fosfatos (mg/L)
 #Responsable del Monitoreo
 #Fecha de Muestreo
